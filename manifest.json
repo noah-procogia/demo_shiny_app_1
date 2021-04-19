@@ -708,7 +708,7 @@
       "description": {
         "Package": "odbc",
         "Title": "Connect to ODBC Compatible Databases (using the DBI Interface)",
-        "Version": "1.3.2",
+        "Version": "1.3.0",
         "Authors@R": "\n    c(person(given = \"Jim\",\n             family = \"Hester\",\n             role = c(\"aut\", \"cre\"),\n             email = \"jim.hester@rstudio.com\"),\n      person(given = \"Hadley\",\n             family = \"Wickham\",\n             role = \"aut\",\n             email = \"hadley@rstudio.com\"),\n      person(given = \"Oliver\", \"Gjoneski\", role = \"ctb\", comment = \"detule\"),\n      person(given = \"lexicalunit\",\n             role = \"cph\",\n             comment = \"nanodbc library\"),\n      person(given = \"Google Inc.\",\n             role = \"cph\",\n             comment = \"cctz library\"),\n      person(given = \"RStudio\",\n             role = c(\"cph\", \"fnd\")))",
         "Description": "A DBI-compatible interface to ODBC databases.",
         "License": "MIT + file LICENSE",
